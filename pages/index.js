@@ -29,7 +29,7 @@ export default function Home() {
     <div className="hero min-h-screen bg-base-200 relative">
       <Image className='' layout='fill' src='/hero.jpg' />
   <div className="hero-content text-center ">
-    <div className="text-white absolute top-48 left-96">
+    <div className="text-white absolute top-0 left-0 xl:top-48 xl:left-96">
       <h1 className="text-5xl font-bold py-1" >CLUB CLARO</h1>
       <p className="px-2 text-xl font-bold py-2">WE ARE LAUNCHING A BRAND NEW CLUB RIGHT HERE IN POZNAN.</p>
       <p className='text-xl p-2 font-bold'>FIRST 50 SIGN UP's WILL GET 15% OF ALL DRINKS AND GET FREE ACCESS</p>
